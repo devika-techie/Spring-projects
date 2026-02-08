@@ -9,15 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.kodnest.learn</groupId>
-<<<<<<< HEAD
-	<artifactId>Second</artifactId>
+	<artifactId>Third</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>Second</name>
-=======
-	<artifactId>First</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>First</name>
->>>>>>> 1abb2c303da24e064676b995fda1aa29eef15052
+	<name>Third</name>
 	<description>Demo project for Spring Boot</description>
 	<url/>
 	<licenses>
@@ -37,13 +31,6 @@
 	</properties>
 	<dependencies>
 		<dependency>
-<<<<<<< HEAD
-=======
-    	<groupId>org.springframework.boot</groupId>
-    	<artifactId>spring-boot-starter-web</artifactId>
-		</dependency>
-		<dependency>
->>>>>>> 1abb2c303da24e064676b995fda1aa29eef15052
 			<groupId>org.springframework.boot</groupId>
 			<artifactId>spring-boot-starter</artifactId>
 		</dependency>
